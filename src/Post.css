@@ -13,6 +13,10 @@
   padding: 15px;
 }
 
+.post__bottom {
+  padding: 20px;
+}
+
 .post__avatar {
   margin-right: 10px;
 }
